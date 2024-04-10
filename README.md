@@ -18,9 +18,9 @@ The following hardware component listed below was used for the coupling and asse
 6) LEDs (Red,Yellow,Green)
 
 # Circuit Design
-[schematic design]()
+[schematic design](https://drive.google.com/file/d/1YJxFnCKAseLmEXhT6Yc9QR8f-qq5V3nI/view?usp=sharing)
 
-[circuit diagram]()
+[circuit diagram](https://drive.google.com/file/d/1WVFcs1bViMy1no-mpY-ZUScpI7VoNRJD/view?usp=sharing)
 # Source Code 
 ``` cpp
 /* 
@@ -138,6 +138,8 @@ Here are some of the disadvantages of the invention ;
 
 While the range alert system offers significant benefits in enhancing safety standards, addressing these potential disadvantages through proper planning, maintenance, and ongoing optimization is crucial to maximize its effectiveness and reliability in real-world applications.
 # Output
+[picture PCB Design](https://drive.google.com/file/d/1Nwpk4VIE5CC_IQWtLkAkyN_QUvfXF9eW/view?usp=sharing)
+
 [picture]()
 
 [video]()
@@ -146,6 +148,9 @@ The range alert system project introduces a innovative safety solution that comb
 
 Despite its advantages, the project also faces potential limitations, such as the HC-SR04 sensor's limited range and susceptibility to interference, as well as dependency on continuous power and the complexity of calibration. Additionally, maintenance and durability considerations highlight the need for ongoing care and optimization to ensure the system's long-term reliability. By addressing these challenges and leveraging the system's strengths, the range alert project holds promise in significantly improving safety standards and fostering a culture of proactive risk management in various environments.
 
+
+
+**THANK YOU**
 
 
 
